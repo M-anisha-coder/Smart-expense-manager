@@ -87,6 +87,10 @@ Smart Expense Manager allows users to:
 
     SmartExpenseManager/
     │
+    ├── assets/
+    │   ├── menu.png
+    │   ├── monthly-report.png
+    │   └── yearly-report.png
     ├── Models/
     ├── Services/
     │   ├── CsvImportService.cs
