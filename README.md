@@ -91,7 +91,11 @@ Smart Expense Manager allows users to:
     │   ├── menu.png
     │   ├── monthly-report.png
     │   └── yearly-report.png
-    ├── Models/
+    ├──  Models/
+    │    ├── BankTransactionCsvModel.cs
+    │    ├── CategorySummary.cs
+    │    ├── MonthlyReport.cs
+    │    └── Transaction.cs
     ├── Services/
     │   ├── CsvImportService.cs
     │   ├── CategorizationService.cs
